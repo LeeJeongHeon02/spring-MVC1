@@ -1,12 +1,11 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: 이정헌
-  Date: 2025-08-06
-  Time: 오후 8:07
-  To change this template use File | Settings | File Templates.
---%>
+<%--  Created by IntelliJ IDEA.--%>
+<%--  User: 이정헌--%>
+<%--  Date: 2025-08-06--%>
+<%--  Time: 오후 8:07--%>
+<%--  To change this template use File | Settings | File Templates.--%>
+<%--&ndash;%&gt;--%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core" %>
+<%@ taglib prefix="c" uri="jakarta.tags.core" %>
 
 <html>
 <head>
